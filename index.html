@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>link hub - hub.twonum</title>
+  <link rel="stylesheet" href="/base.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css" integrity="sha512-Evv84Mr4kqVGRNSgIGL/F/aIDqQb7xQ2vcrdIwxfjThSH8CSR7PBEakCr51Ck+w+/U6swU2Im1vVX0SVk9ABhg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&display=swap" rel="stylesheet">
+</head>
+<body>
+  <header>
+    <hgroup>
+      <h1>twonum</h1>
+      <p>Link hub</p>
+    </hgroup>
+  </header>
+  <main>
+    <section id="social">
+      <h2>Social</h2>
+      <button type="button" title="Email" id="button-email"><i class="fa-solid fa-envelope"></i></button>
+      <a href="https://bsky.app/profile/twonum.org" title="Bluesky"><i class="fa-brands fa-bluesky"></i></a>
+      <a href="https://s.twonum.org/mstdn" title="Mastodon"><i class="fa-brands fa-mastodon"></i></a>
+      <a href="https://github.com/twonfi" title="GitHub"><i class="fa-brands fa-github"></i></a>
+      <button type="button" title="Discord" id="button-discord"><i class="fa-brands fa-discord"></i></button>
+      <a href="https://www.youtube.com/@twonum" title="YouTube"><i class="fa-brands fa-youtube"></i></a>
+      <button type="button" title="Xbox" id="button-xbox"><i class="fa-brands fa-xbox"></i></button>
+      <a href="https://steamcommunity.com/profiles/76561199494212182/" title="Steam"><i class="fa-brands fa-steam"></i></a>
+    </section>
+    <section id="links">
+      <h2>Links</h2>
+      <a href="https://www.twonum.org/">twonum.org</a>
+      <a href="https://df.twonum.org/">DoubleFloat, the blog</a>
+    </section>
+  </main>
+  <footer>
+    <h2>About</h2>
+    © twonum. <a href="https://github.com/twonfi/hub.twonum.org">Free and open-source</a>
+  </footer>
+
+  <template id="close-button-template">
+    <button type="button" class="btn close-button">close</button>
+  </template>
+  <dialog id="dialog-discord">
+    <p>@twonum</p>
+  </dialog>
+  <dialog id="dialog-email">
+    <p>Please see <a href="https://www.twonum.org">twonum.org</a> for my email.</p>
+  </dialog>
+  <dialog id="dialog-xbox">
+    <p>treat this as you would with any Xbox profile... <a href="https://www.xbox.com/play/user/twonfi">enter my Xbox profile</a></p>
+  </dialog>
+  <script src="/dialogs.js"></script>
+</body>
+</html>
