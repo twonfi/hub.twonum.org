@@ -1,9 +1,5 @@
-a:link:not(.btn):not(.page-link) {
-  color: #89b4fa;
+a:link {
   text-decoration-style: dotted;
-}
-a:visited:not(.btn):not(.page-link) {
-  color: #cba6f7;
 }
 a:hover {
   text-decoration-style: solid !important;
