@@ -42,8 +42,9 @@ header {
 }
 
 main {
-  #social {
+  #social-buttons {
     button {
+      /* These open dialogs and are slightly different from links */
       margin: 0;
       cursor: pointer;
       background: none;
@@ -56,6 +57,14 @@ main {
       color: white;
       padding: 0 .27em;
       font-size: 1.4em;
+    }
+  }
+
+  details {
+    text-align: left;
+    summary {
+      margin-top: .7em;
+      cursor: pointer;
     }
   }
 }
