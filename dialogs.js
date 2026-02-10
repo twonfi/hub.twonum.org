@@ -2,7 +2,6 @@
 
 const DIALOG_BUTTONS = new Map(Object.entries({
   'button-email': 'dialog-email',
-  'button-discord': 'dialog-discord',
   'button-xbox': 'dialog-xbox',
 }));
 
