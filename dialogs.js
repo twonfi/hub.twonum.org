@@ -2,8 +2,6 @@
 
 const DIALOG_BUTTONS = new Map(Object.entries({
   'button-email': 'dialog-email',
-  'button-discord': 'dialog-discord',
-  'button-xbox': 'dialog-xbox',
 }));
 
 const CLOSE_BUTTON_TEMPLATE = document.getElementById("close-button-template").innerHTML;
