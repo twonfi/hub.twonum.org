@@ -81,6 +81,11 @@ main {
   cursor: pointer;
 }
 
+.btn {
+  font-family: Outfit, sans-serif;
+  font-weight: bold;
+}
+
 h1, h2, hgroup p {
   text-transform: lowercase;
 }
