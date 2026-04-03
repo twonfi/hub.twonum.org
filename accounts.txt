@@ -1,6 +1,7 @@
-$date: 2026-02-10
-$site: <https://www.twonum.org>
+$date: 2026-04-02
+$site: <https://www.twonum.org/>
 $openpgpkey: 1BC1F4320E7F4CDEAF567DEA4F6824F6E1B5F269
+$matrix: @twonum:twonum.org
 ---
 Bluesky: "twonum.org" <https://bsky.app/profile/twonum.org>
 GitHub: "twonfi" <https://github.com/twonfi>
@@ -13,7 +14,9 @@ Reddit: "twofloat" <https://www.reddit.com/user/twofloat/>
 Minecraft: "twonum"
 Wikimedia: "2NumForIce" <https://meta.wikimedia.org/wiki/User:2NumForIce>
 Bulbagarden Forums: "twonum" <https://bulbagarden.net/members/twonum.149215/>
+Bulbapedia: "2NumForIce" <https://bulbapedia.bulbagarden.net/wiki/User:2NumForIce>
 Battle.net: "twonum#1567"
 CodePen: "twonum" <https://codepen.io/twonum>
 Hytale: "twonum"
 Hack Club Slack: "@twonum"
+Bandcamp: "twonum" <https://bandcamp.com/twonum>
