@@ -28,6 +28,11 @@ body {
 }
 
 header {
+  #gears {
+    width: 10rem;
+    image-rendering: pixelated;
+  }
+
   hgroup {
     line-height: 1.3em;
 
