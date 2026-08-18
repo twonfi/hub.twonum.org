@@ -16,6 +16,7 @@ Hack Club Slack: "@twonum"
 Hytale: "twonum"
 Last.fm: "twonum" <https://www.last.fm/user/twonum>
 Minecraft: "twonum"
+MusicBrainz: "twonum" <https://musicbrainz.org/user/twonum>
 Reddit: "twofloat" <https://www.reddit.com/user/twofloat/>
 Wikimedia: "2NumForIce" <https://meta.wikimedia.org/wiki/User:2NumForIce>
 Battle.net: "twonum#1567"
