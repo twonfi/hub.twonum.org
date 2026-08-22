@@ -1,4 +1,4 @@
-$date: 2026-08-12
+$date: 2026-08-22
 $site: <https://www.twonum.org/>
 $openpgpkey: 1BC1F4320E7F4CDEAF567DEA4F6824F6E1B5F269
 $matrix: @twonum:twonum.org
@@ -12,6 +12,7 @@ Bandcamp: "twonum" <https://bandcamp.com/twonum>
 Bulbagarden Forums: "twonum" <https://bulbagarden.net/members/twonum.149215/>
 Bulbapedia: "2NumForIce" <https://bulbapedia.bulbagarden.net/wiki/User:2NumForIce>
 Patreon: "twonum" <https://www.patreon.com/cw/twonum>
+Pronouns.page: "twonum" <https://en.pronouns.page/@twonum>
 Hack Club Slack: "@twonum"
 Hytale: "twonum"
 Last.fm: "twonum" <https://www.last.fm/user/twonum>
