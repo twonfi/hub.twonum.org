@@ -11,6 +11,7 @@ itch.io: "twonum" <https://twonum.itch.io/>
 Bandcamp: "twonum" <https://bandcamp.com/twonum>
 Bulbagarden Forums: "twonum" <https://bulbagarden.net/members/twonum.149215/>
 Bulbapedia: "2NumForIce" <https://bulbapedia.bulbagarden.net/wiki/User:2NumForIce>
+Ko-fi: "twonum" <https://ko-fi.com/twonum>
 Patreon: "twonum" <https://www.patreon.com/cw/twonum>
 Pronouns.page: "twonum" <https://en.pronouns.page/@twonum>
 Hack Club Slack: "@twonum"
