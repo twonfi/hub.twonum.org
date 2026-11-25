@@ -1,24 +1,26 @@
-$date: 2026-08-22
+$date: 2026-11-24
 $site: <https://www.twonum.org/>
 $openpgpkey: 1BC1F4320E7F4CDEAF567DEA4F6824F6E1B5F269
 $matrix: @twonum:twonum.org
 ---
-Bluesky: "twonum.org" <https://bsky.app/profile/twonum.org>
-Signal: <https://signal.me/#eu/C3Whz8HZH-9rW2P1Oeon0kdtB1e1AdLxOD-w5KYFvr_451S_lAVGQpGDvS0r3Nyo>
-GitHub: "twonfi" <https://github.com/twonfi>
-Steam: "twonum" <https://steamcommunity.com/id/twonum/>
-itch.io: "twonum" <https://twonum.itch.io/>
 Bandcamp: "twonum" <https://bandcamp.com/twonum>
+Battle.net: "twonum#1567"
+Bluesky: "twonum.org" <https://bsky.app/profile/twonum.org>
 Bulbagarden Forums: "twonum" <https://bulbagarden.net/members/twonum.149215/>
 Bulbapedia: "2NumForIce" <https://bulbapedia.bulbagarden.net/wiki/User:2NumForIce>
+Discord: "@twonum"
+GitHub: "twonfi" <https://github.com/twonfi>
 Ko-fi: "twonum" <https://ko-fi.com/twonum>
 Patreon: "twonum" <https://www.patreon.com/cw/twonum>
 Pronouns.page: "twonum" <https://en.pronouns.page/@twonum>
 Hack Club Slack: "@twonum"
 Hytale: "twonum"
+itch.io: "twonum" <https://twonum.itch.io/>
 Last.fm: "twonum" <https://www.last.fm/user/twonum>
+ListenBrainz: "twonum" <https://listenbrainz.org/user/twonum/>
 Minecraft: "twonum"
 MusicBrainz: "twonum" <https://musicbrainz.org/user/twonum>
 Reddit: "twofloat" <https://www.reddit.com/user/twofloat/>
+Signal: <https://signal.me/#eu/C3Whz8HZH-9rW2P1Oeon0kdtB1e1AdLxOD-w5KYFvr_451S_lAVGQpGDvS0r3Nyo>
+Steam: "twonum" <https://steamcommunity.com/id/twonum/>
 Wikimedia: "2NumForIce" <https://meta.wikimedia.org/wiki/User:2NumForIce>
-Battle.net: "twonum#1567"
